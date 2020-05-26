@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mayor a que", "mayor a que\mayor a que.csproj", "{9233AE67-1295-4C83-8033-42514EC8436D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9233AE67-1295-4C83-8033-42514EC8436D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9233AE67-1295-4C83-8033-42514EC8436D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9233AE67-1295-4C83-8033-42514EC8436D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9233AE67-1295-4C83-8033-42514EC8436D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
